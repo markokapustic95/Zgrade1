@@ -1,4 +1,4 @@
-package com.aplikacija.zgrade;
+package com.aplikacija.upravljanjezgradama;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.aplikacija.zgrade", appContext.getPackageName());
+        assertEquals("com.aplikacija.upravljanjezgradama", appContext.getPackageName());
     }
 }

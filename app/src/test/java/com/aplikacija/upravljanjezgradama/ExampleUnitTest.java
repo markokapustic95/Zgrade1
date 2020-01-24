@@ -1,4 +1,4 @@
-package com.aplikacija.zgrade;
+package com.aplikacija.upravljanjezgradama;
 
 import org.junit.Test;
 
